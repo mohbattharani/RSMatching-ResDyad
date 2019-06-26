@@ -1,4 +1,4 @@
-# A Residual-Dyad Encoder Discriminator Networkfor Remote Sensing Image Matching
+# A Residual-Dyad Encoder Discriminator Network for Remote Sensing Image Matching
 
 
 Coming soon!
